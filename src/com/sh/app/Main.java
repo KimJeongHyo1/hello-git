@@ -19,5 +19,8 @@ public class Main {
 		new Chicken().run();
 		
 	}
+		public void test() {
+			System.out.println("Main#test");
+		}
 
 }
