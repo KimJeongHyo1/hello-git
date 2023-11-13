@@ -22,6 +22,7 @@ public class Main {
 	}
 		public void test() {
 			System.out.println("Main#test");
+			System.out.println("배고프다");
 		}
 
 }
