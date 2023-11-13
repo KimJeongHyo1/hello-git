@@ -20,6 +20,9 @@ public class Main {
 		new Chicken().run();
 		
 	}
+		public void abc() {
+			
+		}
 		public void test() {
 			System.out.println("Main#test");
 			System.out.println("배고프다");
