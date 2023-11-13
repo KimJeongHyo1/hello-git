@@ -7,8 +7,8 @@ import com.sh.app.animal.Hamster;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
-		System.out.println("Hello Git");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO GIT");
 		
 //		new Foo().test();
 		
